@@ -1,5 +1,7 @@
 # Movie-recommendation
 
+"Machine Learning model for movie recommendations utilizing the Cosine Similarity algorithm."
+
 ## How to run
 ```
 pip install numpy pandas scikit-learn
